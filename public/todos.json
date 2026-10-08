@@ -1,0 +1,5 @@
+[
+  { "id": "todo-1", "title": "Create React project", "completed": true },
+  { "id": "todo-2", "title": "Learn useState and useEffect", "completed": false },
+  { "id": "todo-3", "title": "Practise for the interview", "completed": false }
+]
